@@ -1,0 +1,17 @@
+{
+    "name": "mahmoudigithub/database-relation-tester",
+    "description": "A terse package for test relations between models.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mahmoudigithub\\DatabaseRelationTester\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MahdiMahmoudi",
+            "email": "mahmoudigithub@github.com"
+        }
+    ],
+    "require": {}
+}
