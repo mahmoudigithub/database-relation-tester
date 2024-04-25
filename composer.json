@@ -1,6 +1,7 @@
 {
     "name": "mahmoudigithub/database-relation-tester",
-    "description": "A terse package for test relations between models.",
+    "description": "A terse package for test relations between Laravel models.",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
