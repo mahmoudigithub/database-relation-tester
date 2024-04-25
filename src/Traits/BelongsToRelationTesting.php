@@ -4,7 +4,7 @@ namespace Mahmoudigithub\DatabaseRelationTester\Traits;
 
 use Exception;
 use Illuminate\Database\Eloquent\Model;
-use Mahmoudigithub\DatabaseRelationTester\Traits\AutoFindRelationMethodName
+use Mahmoudigithub\DatabaseRelationTester\Traits\AutoFindRelationMethodName;
 
 trait BelongsToRelationTesting
 {
